@@ -1,1 +1,2 @@
-# lighthouse
+# Lighthouse
+Модель маяка.
